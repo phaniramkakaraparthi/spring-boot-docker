@@ -1,4 +1,4 @@
-package guru.springframework.domain;
+package phani.springframework.domain;
 
 /**
  * Created by jt on 1/26/16.

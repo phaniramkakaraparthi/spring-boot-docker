@@ -1,4 +1,4 @@
-package guru.springframework.domain;
+package phani.springframework.domain;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

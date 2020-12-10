@@ -1,8 +1,8 @@
-package guru.springframework.services;
+package phani.springframework.services;
 
-import guru.springframework.domain.Author;
-import guru.springframework.domain.Product;
-import guru.springframework.domain.ProductCategory;
+import phani.springframework.domain.Author;
+import phani.springframework.domain.Product;
+import phani.springframework.domain.ProductCategory;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;

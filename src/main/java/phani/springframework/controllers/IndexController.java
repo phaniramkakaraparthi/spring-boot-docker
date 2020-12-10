@@ -1,6 +1,6 @@
-package guru.springframework.controllers;
+package phani.springframework.controllers;
 
-import guru.springframework.services.ProductService;
+import phani.springframework.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

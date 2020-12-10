@@ -1,6 +1,6 @@
-package guru.springframework.services;
+package phani.springframework.services;
 
-import guru.springframework.domain.Product;
+import phani.springframework.domain.Product;
 
 import java.util.List;
 
